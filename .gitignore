@@ -1,0 +1,15 @@
+config.json
+service-account.json
+*service-account*.json
+.DS_Store
+.vscode
+venv/
+.coverage
+pip.conf
+
+#Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache
+Ipcamapi-unittest.json
